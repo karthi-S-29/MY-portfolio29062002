@@ -275,7 +275,7 @@ background-color: rgb(88, 220, 235);
 
 
 
-@media(min-width:200px) and (max-width:800px) {
+@media(min-width:300px) and (max-width:1000px) {
     .menubar{
         display: block;
     }
