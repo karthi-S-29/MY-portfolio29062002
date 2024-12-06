@@ -275,7 +275,7 @@ background-color: rgb(88, 220, 235);
 
 
 
-@media(min-width:270px) and (max-width:800px) {
+@media(min-width:200px) and (max-width:800px) {
     .menubar{
         display: block;
     }
@@ -307,7 +307,7 @@ background-color: rgb(88, 220, 235);
         display:flex;
         margin: auto;
         width: 250px;
-        
+
         
     }
     .about{
