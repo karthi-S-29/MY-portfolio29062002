@@ -297,7 +297,16 @@ background-color: rgb(88, 220, 235);
         background-color: aqua;
         transition: 0.5s;
     }
-
+.Copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-family:fantasy;
+    
+}
 
 
 
@@ -369,11 +378,10 @@ background-color: rgb(88, 220, 235);
             background-color: aquamarine;
         }
         .contact{
-            margin-top: 100px;
+            margin-top: 80px;
             flex-direction: column;
             background-color:black;
             font-size: 20px;
-
         }
         .contactb2,.contactb1{
             width: 100%;
@@ -387,6 +395,11 @@ background-color: rgb(88, 220, 235);
             width: 100px;
             font-size: 15px;   
         }
+        .Copyright{
+            margin-top: 50px;
+           
+            
+        }
         
 
 }
@@ -394,10 +407,6 @@ background-color: rgb(88, 220, 235);
     .sidebar{
         width: 100%;
     }
-    
-    
-    
-    
 }
 
 
