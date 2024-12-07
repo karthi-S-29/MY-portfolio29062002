@@ -153,6 +153,8 @@ background-color: rgb(88, 220, 235);
     height: 500px;
     border-radius: 50%;
     background-image: url(./img/NHP_0931.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .aboutcontent h1{
@@ -378,7 +380,7 @@ background-color: rgb(88, 220, 235);
             background-color: aquamarine;
         }
         .contact{
-            margin-top: 80px;
+            margin-top: 40px;
             flex-direction: column;
             background-color:black;
             font-size: 20px;
@@ -396,7 +398,8 @@ background-color: rgb(88, 220, 235);
             font-size: 15px;   
         }
         .Copyright{
-            margin-top: 50px;
+            padding: 10px;
+            margin-top: 120px;
            
             
         }
